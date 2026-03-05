@@ -13,7 +13,12 @@ __pycache__/
 lab1/confirmed_fronts/
 lab1/Confirmed_fronts.zip
 lab1/checkpoints/
+lab3/data/yolo_rtsd_seg/
+lab3/data/roboflow/
 
 # Local logs/temp
 *.log
 *.tmp
+
+# Secrets
+.env
