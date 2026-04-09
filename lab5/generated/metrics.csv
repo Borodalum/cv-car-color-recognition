@@ -1,0 +1,12 @@
+Group,Prompt (short),CLIP Score ↑,Face Sim ↑,BRISQUE ↓
+Style prompts,"close-up portrait of sks man, face and shoulders, cyber...",0.33,0.658,19.82
+Style prompts,"close-up portrait of sks man, face and shoulders, made ...",0.31,0.232,25.59
+Style prompts,"close-up portrait of sks man, face and shoulders, elven...",0.34,0.579,13.94
+Style prompts,"close-up portrait of sks man, face and shoulders, medie...",0.33,0.232,-1.25
+Style prompts,"close-up portrait of sks man, face and shoulders, under...",0.33,0.622,15.6
+Token + location,"portrait photo of sks man, face and shoulders, forest b...",0.3,0.448,22.97
+Token + location,"portrait photo of sks man, face and shoulders, city str...",0.32,0.647,25.38
+Token + location,"portrait photo of sks man, face and shoulders, beach ba...",0.31,0.271,6.56
+Gender + location,"portrait photo of a man, face and shoulders, forest bac...",0.28,-0.063,12.84
+Gender + location,"portrait photo of a man, face and shoulders, city stree...",0.3,-0.206,26.53
+Gender + location,"portrait photo of a man, face and shoulders, beach back...",0.33,0.063,3.94
